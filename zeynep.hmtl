@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Sana Özel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sevgilim ❤️</h1>
+        <p>Bu sayfa sadece senin için yapıldı!</p>
+        <button id="surpriseBtn">Bana bir sürpriz göster!</button>
+        <div id="surpriseMessage"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+ 
